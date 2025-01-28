@@ -39,12 +39,11 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
-
 ## GitHub stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=jojoz23&theme=swift&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jojoz23&theme=dark)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jojoz23&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--[![Rayyan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rayyanaamir22&custom_title=Stats&theme=nightowl&hide_border=true)](https://github.com/rayyanaamir22/github-readme-activity-graph)-->
+<!--[![Zuhayr's github activity graph](https://activity-graph.herokuapp.com/graph?username=jojoz23&custom_title=Stats&theme=nightowl&hide_border=true)](https://github.com/jojoz23/github-readme-activity-graph)-->
 
 <!---
 rayyanaamir22/rayyanaamir22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
