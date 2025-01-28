@@ -41,7 +41,7 @@
 
 ## GitHub stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jojoz23&theme=dark)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jojoz23&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jojoz23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--[![Zuhayr's github activity graph](https://activity-graph.herokuapp.com/graph?username=jojoz23&custom_title=Stats&theme=nightowl&hide_border=true)](https://github.com/jojoz23/github-readme-activity-graph)-->
 
