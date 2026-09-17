@@ -1,7 +1,7 @@
 # Zuhayr Ahmed
 
 ## about me:
-- Studying CS at the University of Toronto
+- Studying MDSAI at the University of Waterloo
 - I am into Full Stack development and Cybersecurity
 
 ## socials:
