@@ -2,6 +2,7 @@
 
 ## about me:
 - Studying MDSAI at the University of Waterloo
+- CS grad from UTM
 - I am into Full Stack development and Cybersecurity
 
 ## socials:
